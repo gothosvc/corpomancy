@@ -1,0 +1,35 @@
+# Mirrors the "Active Schools" table in SCHOOLS.md, in machine-readable form
+# for the site's templates (home page grid, domain nav). If you add or change
+# a school there, update this file to match in the same pass.
+- domain: compliance-risk
+  name: "Compliance & Risk"
+  tradition: Abjuration
+  flavor: "Wards, shields, blocking — legal, HR, audit, insurance"
+- domain: procurement
+  name: "Procurement & Resourcing"
+  tradition: Conjuration
+  flavor: "Summoning headcount, budget, and vendors from nothing"
+- domain: analytics-forecasting
+  name: "Analytics & Forecasting"
+  tradition: Divination
+  flavor: "Dashboards, KPIs, market research, seeing the roadmap"
+- domain: stakeholder-management
+  name: "Sales & Stakeholder Management"
+  tradition: Enchantment
+  flavor: "Persuasion, buy-in, negotiation as mind control"
+- domain: finance
+  name: "Finance & Cost-Cutting"
+  tradition: Evocation
+  flavor: "Burn rate, budget axes, scorched-earth cuts"
+- domain: marketing-optics
+  name: "Marketing & Optics"
+  tradition: Illusion
+  flavor: 'Spin, greenwashing, brand narrative, "the numbers look fine"'
+- domain: legacy-systems
+  name: "Legacy Systems & Zombie Projects"
+  tradition: Necromancy
+  flavor: "Reviving dead initiatives, maintaining code no one understands"
+- domain: org-design
+  name: "Org Design & Process Change"
+  tradition: Transmutation
+  flavor: 'Reorgs, pivots, "digital transformation"'

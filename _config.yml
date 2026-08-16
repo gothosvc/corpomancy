@@ -1,0 +1,26 @@
+title: Corpomancy
+description: Field notes on Corporate Thaumaturgy, kept by the Working Group and recorded as formal spell entries.
+markdown: kramdown
+permalink: pretty
+
+# Files/dirs Jekyll should not process or copy into the built site.
+# These are repo/contributor-facing docs, not audience-facing site content.
+exclude:
+  - README.md
+  - SCHOOLS.md
+  - MECHANICS.md
+  - TEMPLATE.md
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
+  - .github
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - "*.py"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

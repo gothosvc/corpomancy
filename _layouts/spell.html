@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% assign school = site.data.schools | where: "domain", page.domain | first %}
+<p class="breadcrumb">
+  <a href="{{ '/' | relative_url }}">&larr; All schools</a> /
+  <a href="{{ '/spells/' | append: page.domain | append: '/' | relative_url }}">{{ school.name }}</a>
+</p>
+
+<article class="spell stat-block">
+  {{ content }}
+</article>

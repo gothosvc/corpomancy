@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<section class="intro">
+  {{ content }}
+</section>
+
+<section class="school-grid">
+  {% for school in site.data.schools %}
+  <a class="school-card" href="{{ '/spells/' | append: school.domain | append: '/' | relative_url }}">
+    <h2>{{ school.name }}</h2>
+    <p class="tradition">{{ school.tradition }}</p>
+    <p class="flavor">{{ school.flavor }}</p>
+  </a>
+  {% endfor %}
+</section>

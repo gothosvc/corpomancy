@@ -1,0 +1,170 @@
+:root {
+  --bg: #f8f4ea;
+  --bg-card: #ffffff;
+  --text: #1f1b16;
+  --text-muted: #6b5f4f;
+  --accent: #7a2e2e;
+  --border: #d8cdb8;
+  --link: #7a2e2e;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17140f;
+    --bg-card: #201b14;
+    --text: #eee6d6;
+    --text-muted: #a89a80;
+    --accent: #c9755a;
+    --border: #3a3225;
+    --link: #d98f6f;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  line-height: 1.6;
+}
+
+a { color: var(--link); }
+
+.site-header {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 1.5rem 2rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.site-title {
+  font-size: 1.4rem;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+
+.site-tagline {
+  color: var(--text-muted);
+  font-style: italic;
+  font-size: 0.95rem;
+}
+
+main {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.site-footer {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  padding: 2rem;
+  border-top: 1px solid var(--border);
+  margin-top: 3rem;
+}
+
+h1, h2, h3 { line-height: 1.25; }
+
+.breadcrumb {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+.breadcrumb a { text-decoration: none; }
+.breadcrumb a:hover { text-decoration: underline; }
+
+/* Home page school grid */
+.school-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.school-card {
+  display: block;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1.1rem 1.25rem;
+  text-decoration: none;
+  color: var(--text);
+  transition: border-color 0.15s ease;
+}
+.school-card:hover { border-color: var(--accent); }
+.school-card h2 {
+  margin: 0 0 0.25rem;
+  font-size: 1.1rem;
+  color: var(--accent);
+}
+.school-card .tradition {
+  margin: 0 0 0.5rem;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+}
+.school-card .flavor {
+  margin: 0;
+  font-size: 0.92rem;
+  color: var(--text-muted);
+}
+
+/* Domain page */
+.tradition-badge {
+  display: inline-block;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.15rem 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.spell-list ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.spell-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.spell-list li a {
+  font-size: 1.05rem;
+  text-decoration: none;
+}
+.spell-list li a:hover { text-decoration: underline; }
+.level-tag {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+  margin-left: 1rem;
+}
+.spell-list .empty { color: var(--text-muted); font-style: italic; }
+
+/* Spell stat block */
+.stat-block h1 {
+  margin-bottom: 0.1rem;
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.5rem;
+}
+.stat-block > em:first-of-type,
+.stat-block p:first-of-type em {
+  color: var(--accent);
+}
+.stat-block strong { color: var(--accent); }
+.stat-block hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 1.5rem 0;
+}

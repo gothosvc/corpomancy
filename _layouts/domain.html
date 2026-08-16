@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<p class="breadcrumb"><a href="{{ '/' | relative_url }}">&larr; All schools</a></p>
+
+<article class="domain">
+  <p class="tradition-badge">Classical tradition: {{ page.tradition }}</p>
+  {{ content }}
+</article>
+
+{% assign domain_spells = site.pages | where: "layout", "spell" | where: "domain", page.domain | sort: "level" %}
+<section class="spell-list">
+  <h2>Spells</h2>
+  {% if domain_spells.size == 0 %}
+    <p class="empty">No spells drafted in this domain yet.</p>
+  {% else %}
+    <ul>
+      {% for spell in domain_spells %}
+      <li>
+        <a href="{{ spell.url | relative_url }}">{{ spell.title }}</a>
+        <span class="level-tag">{{ spell.level }}{% if spell.level == 1 %}st{% elsif spell.level == 2 %}nd{% elsif spell.level == 3 %}rd{% else %}th{% endif %}-level</span>
+      </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</section>

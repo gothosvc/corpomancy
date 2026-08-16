@@ -1,0 +1,23 @@
+name: Validate spells
+
+on:
+  pull_request:
+    paths:
+      - "spells/**/*.md"
+      - "_data/schools.yml"
+  push:
+    branches: [main]
+    paths:
+      - "spells/**/*.md"
+      - "_data/schools.yml"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - run: pip install pyyaml
+      - run: python .github/scripts/validate_spell.py
