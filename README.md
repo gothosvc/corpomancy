@@ -4,6 +4,8 @@
 of us found precise enough: level, school, casting time, range, components,
 duration, classes.*
 
+**The archive is live: [gothosvc.github.io/corpomancy](https://gothosvc.github.io/corpomancy/)**
+
 Corpomancy is a shared grimoire kept by a loose, largely unaccredited
 fellowship of researchers — we call ourselves the Working Group, mostly
 because none of us could agree on anything more dignified — who arrived
@@ -126,16 +128,15 @@ can identify as a competitor" — logged in
 
 ## The Archive & Correspondence
 
-The grimoire is a Jekyll site, intended for GitHub Pages once we're ready
-to let anyone outside the Working Group see it. The repository is
-currently **private** — both public hosting and open correspondence (pull
-requests) require it to be made public, so both stay dormant until we agree
-the volume is ready. Until then, consider this a locked drawer in a shared
-office none of us can quite justify to facilities.
+The grimoire is live: **[gothosvc.github.io/corpomancy](https://gothosvc.github.io/corpomancy/)**.
+We debated keeping this in the locked drawer indefinitely and eventually
+concluded that a discovery of this size doesn't stay useful if the only
+people checking it are the ones who already believe it. The archive is
+public now, and so is correspondence.
 
-Once public, findings can be submitted for peer review — see
+Findings can be submitted for peer review as a pull request — see
 [`CONTRIBUTING.md`](CONTRIBUTING.md). An automated check confirms a
 submission is structurally sound (front matter, required fields, discipline
 consistency); it cannot and does not judge whether a finding is actually
 funny, true, or advisable to have written down. That remains a human —
-well, a wizard — judgment call.
+well, a wizard — judgment call, made in the open now, by whoever shows up.
