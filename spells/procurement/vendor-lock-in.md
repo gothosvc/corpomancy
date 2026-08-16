@@ -10,11 +10,11 @@ tradition: Conjuration
 
 *3rd-level Procurement & Resourcing*
 
-**Casting Time:** 1 action, following a successful Three Bids and a Buy
-**Range/Area:** Touch, one vendor or supplier relationship
+**Casting Time:** 1 action, following a successful Three Bids and a Buy<br>
+**Range/Area:** Touch, one vendor or supplier relationship<br>
 **Components:** V, S, M (a multi-year contract with an early-termination
-penalty clause, consumed)
-**Duration:** Until the contract term expires, commonly 3 to 5 years
+penalty clause, consumed)<br>
+**Duration:** Until the contract term expires, commonly 3 to 5 years<br>
 **Classes:** Procurement Officer, Category Manager
 
 Touch one vendor relationship your organization currently holds. That

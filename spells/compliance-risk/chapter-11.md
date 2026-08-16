@@ -10,11 +10,11 @@ tradition: Abjuration
 
 *9th-level Compliance & Risk*
 
-**Casting Time:** 1 action
-**Range/Area:** Self
-**Components:** V, S, M (a bankruptcy petition, consumed)
+**Casting Time:** 1 action<br>
+**Range/Area:** Self<br>
+**Components:** V, S, M (a bankruptcy petition, consumed)<br>
 **Duration:** Until the reorganization plan is confirmed by the court,
-commonly 12 to 24 months
+commonly 12 to 24 months<br>
 **Classes:** General Counsel, CFO, board
 
 Your organization becomes immune to all collection attempts, lawsuits, and

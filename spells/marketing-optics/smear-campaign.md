@@ -10,12 +10,12 @@ tradition: Illusion
 
 *4th-level Marketing & Optics*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action<br>
 **Range/Area:** Unlimited; one organization you can identify as a
-competitor
+competitor<br>
 **Components:** V, S, M (an anonymous tip, or a strategically timed leak,
-consumed)
-**Duration:** Until the news cycle moves on, typically 1d4 weeks
+consumed)<br>
+**Duration:** Until the news cycle moves on, typically 1d4 weeks<br>
 **Classes:** CMO, Head of Communications, outside PR firm (as a ritual)
 
 Choose a rival organization. You seed a piece of true, exaggerated, or

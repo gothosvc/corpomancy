@@ -11,12 +11,12 @@ tradition: Necromancy
 *2nd-level Legacy Systems & Zombie Projects*
 
 **Casting Time:** 1 action, typically cast unintentionally during a
-performance review or team restructuring
-**Range/Area:** Touch, one creature and one system
+performance review or team restructuring<br>
+**Range/Area:** Touch, one creature and one system<br>
 **Components:** V, S, M (an org chart listing exactly one name under
-"Owner")
+"Owner")<br>
 **Duration:** Until the designated creature becomes unavailable for any
-reason
+reason<br>
 **Classes:** Engineering Manager, Director of Engineering, whoever drew the
 original org chart
 

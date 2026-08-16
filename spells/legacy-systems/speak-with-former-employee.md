@@ -10,11 +10,11 @@ tradition: Necromancy
 
 *3rd-level Legacy Systems & Zombie Projects*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute<br>
 **Range/Area:** Special (requires a phone number, personal email, or mutual
-professional connection previously established)
-**Components:** S, M (a severance agreement, referenced but not consumed)
-**Duration:** 10 minutes, or until the recipient stops responding
+professional connection previously established)<br>
+**Components:** S, M (a severance agreement, referenced but not consumed)<br>
+**Duration:** 10 minutes, or until the recipient stops responding<br>
 **Classes:** Engineering Manager, HR Business Partner, Product Manager
 
 You contact a former employee of a target organization and may ask them up

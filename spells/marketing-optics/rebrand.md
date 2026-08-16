@@ -11,11 +11,11 @@ tradition: Illusion
 *3rd-level Marketing & Optics*
 
 **Casting Time:** 1 minute, though the underlying planning process takes 6
-to 18 months
-**Range/Area:** Self (affects the caster's entire organization)
+to 18 months<br>
+**Range/Area:** Self (affects the caster's entire organization)<br>
 **Components:** V, S, M (a new logo, a new color palette, and a mission
-statement containing the word "reimagine")
-**Duration:** Until the next Rebrand
+statement containing the word "reimagine")<br>
+**Duration:** Until the next Rebrand<br>
 **Classes:** CMO, VP of Brand, external Brand Consultancy (as a ritual, at
 considerable cost)
 

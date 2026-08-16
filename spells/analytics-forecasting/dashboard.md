@@ -10,11 +10,11 @@ tradition: Divination
 
 *1st-level Analytics & Forecasting*
 
-**Casting Time:** 10 minutes to set up, 1 action to consult thereafter
+**Casting Time:** 10 minutes to set up, 1 action to consult thereafter<br>
 **Range/Area:** Unlimited, so long as the underlying data pipeline remains
-connected
-**Components:** V, S, M (a login credential, not consumed)
-**Duration:** Concentration, up to 8 hours (commonly re-cast every morning)
+connected<br>
+**Components:** V, S, M (a login credential, not consumed)<br>
+**Duration:** Concentration, up to 8 hours (commonly re-cast every morning)<br>
 **Classes:** Data Analyst, Product Manager, anyone with a login
 
 You create an invisible sensor that displays a curated selection of your

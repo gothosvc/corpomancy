@@ -11,12 +11,12 @@ tradition: Transmutation
 *6th-level Org Design & Process Change*
 
 **Casting Time:** 8 hours (a Training), plus an ongoing ritual component
-performed every morning (a Standup)
-**Range/Area:** Self (affects the caster's entire organization)
+performed every morning (a Standup)<br>
+**Range/Area:** Self (affects the caster's entire organization)<br>
 **Components:** V, S, M (a certification, a set of colored sticky notes,
-and a burndown chart)
+and a burndown chart)<br>
 **Duration:** Until the organization reverts under stress, typically
-coinciding with the next major deadline
+coinciding with the next major deadline<br>
 **Classes:** VP of Engineering, Agile Coach
 
 You impose a new set of rituals, titles, and terminology on your

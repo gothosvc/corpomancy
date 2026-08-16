@@ -10,12 +10,12 @@ tradition: Illusion
 
 *1st-level Marketing & Optics*
 
-**Casting Time:** 1 action, repeatable indefinitely
-**Range/Area:** Self
+**Casting Time:** 1 action, repeatable indefinitely<br>
+**Range/Area:** Self<br>
 **Components:** S, M (a professional networking profile, a conference
-badge, or a podcast microphone, not consumed)
+badge, or a podcast microphone, not consumed)<br>
 **Duration:** Until the caster stops posting, or is asked a follow-up
-question requiring genuine expertise, whichever comes first
+question requiring genuine expertise, whichever comes first<br>
 **Classes:** Founder, VP, anyone with an audience
 
 You cause yourself to appear, to any creature reading, watching, or

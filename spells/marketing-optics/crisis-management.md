@@ -11,13 +11,13 @@ tradition: Illusion
 *8th-level Marketing & Optics*
 
 **Casting Time:** 1 action, must be cast within 24 hours of the
-precipitating event
+precipitating event<br>
 **Range/Area:** Unlimited (any creature capable of encountering news about
-your organization)
+your organization)<br>
 **Components:** V, S, M (a prepared statement, consumed; an unrelated
-positive story, timed to coincide)
+positive story, timed to coincide)<br>
 **Duration:** Until a creature makes a deliberate effort to recall the
-original event, or 1 year, whichever is longer
+original event, or 1 year, whichever is longer<br>
 **Classes:** CMO, General Counsel, CEO
 
 Choose one event that has caused, or is about to cause, significant public

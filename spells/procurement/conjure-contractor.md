@@ -11,11 +11,11 @@ tradition: Conjuration
 *2nd-level Procurement & Resourcing*
 
 **Casting Time:** 1 action to cast, though the conjured creature does not
-arrive until 1d4 weeks have elapsed (a Lead Time)
-**Range/Area:** 60 feet, or Remote
-**Components:** V, S, M (a signed statement of work, consumed)
+arrive until 1d4 weeks have elapsed (a Lead Time)<br>
+**Range/Area:** 60 feet, or Remote<br>
+**Components:** V, S, M (a signed statement of work, consumed)<br>
 **Duration:** Concentration, up to the length of the engagement (commonly 3
-to 6 months)
+to 6 months)<br>
 **Classes:** Engineering Manager, Procurement Officer, VP of Operations
 
 You conjure one Contractor in an unoccupied space you can see within range,

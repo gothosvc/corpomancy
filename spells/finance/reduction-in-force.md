@@ -11,14 +11,14 @@ tradition: Evocation
 *3rd-level Finance & Cost-Cutting*
 
 **Casting Time:** 1 action (must be preceded by 1 emergency calendar hold
-titled "Important Company Update")
+titled "Important Company Update")<br>
 **Range/Area:** Company-wide; effect fills a 20-foot-radius sphere centered
 on a point of the caster's choosing on the org chart (typically a department,
-team, or cost center)
+team, or cost center)<br>
 **Components:** V, S, M (a spreadsheet with a column of names highlighted
 red, consumed in the casting; also consumes an amount of political capital
-equal to the caster's remaining board goodwill)
-**Duration:** Instantaneous
+equal to the caster's remaining board goodwill)<br>
+**Duration:** Instantaneous<br>
 **Classes:** CFO, VP of Finance, Board
 
 A bright memo streaks from the caster's inbox to the point you choose, then

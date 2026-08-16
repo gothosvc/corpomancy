@@ -35,17 +35,26 @@ A note on method:
   the same convention every other tradition uses. Higher level, wider
   blast radius, more authority needed to attempt it, and a correspondingly
   worse time for whoever's on the receiving end.
+- The site's renderer treats a run of lines with no blank line between them
+  as one paragraph, and collapses the line breaks to spaces — it will not
+  put Casting Time, Range/Area, Components, Duration, and Classes on their
+  own lines by default. End each of those four lines (every field except
+  the last, Classes) with a literal `<br>` so they render as intended. If a
+  field's own value happens to wrap across more than one source line for
+  readability, don't add `<br>` at that internal wrap point — only at the
+  true end of the field, right before the next one starts. See any existing
+  spell for the pattern.
 -->
 
 # Spell Name
 
 *Nth-level [corporate domain]*
 
-**Casting Time:** ...
-**Range/Area:** ...
+**Casting Time:** ...<br>
+**Range/Area:** ...<br>
 **Components:** V, S, M (...) — verbal (what's said), somatic (what's done),
-material (what's spent/consumed — budget, headcount, political capital)
-**Duration:** ...
+material (what's spent/consumed — budget, headcount, political capital)<br>
+**Duration:** ...<br>
 **Classes:** ...
 
 Description of what the spell does, played completely straight as a rules

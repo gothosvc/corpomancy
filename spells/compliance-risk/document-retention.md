@@ -10,12 +10,12 @@ tradition: Abjuration
 
 *2nd-level Compliance & Risk*
 
-**Casting Time:** 1 action
-**Range/Area:** Touch, one document, policy, or record
+**Casting Time:** 1 action<br>
+**Range/Area:** Touch, one document, policy, or record<br>
 **Components:** V, S, M (a folder containing no fewer than six versions of
-the same file, none labeled as final, consumed)
+the same file, none labeled as final, consumed)<br>
 **Duration:** Until dispelled, or until the applicable retention period
-lapses (commonly seven years), whichever is later
+lapses (commonly seven years), whichever is later<br>
 **Classes:** General Counsel, Compliance Officer, Records Custodian
 
 The touched document becomes warded against identification. For the

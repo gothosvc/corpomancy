@@ -11,11 +11,11 @@ tradition: Necromancy
 *7th-level Legacy Systems & Zombie Projects*
 
 **Casting Time:** 8 hours (a Migration), preceded by a mandatory Freeze
-period of 1 week
-**Range/Area:** Touch, one Legacy Servant
+period of 1 week<br>
+**Range/Area:** Touch, one Legacy Servant<br>
 **Components:** V, S, M (a fully staffed replacement system, functioning
-and consumed in the casting; a signed executive sponsor sign-off, consumed)
-**Duration:** Instantaneous; permanent
+and consumed in the casting; a signed executive sponsor sign-off, consumed)<br>
+**Duration:** Instantaneous; permanent<br>
 **Classes:** VP of Engineering, Director of Engineering, executive sponsor
 
 Touch one Legacy Servant. Its On-Call Engineer is released from their

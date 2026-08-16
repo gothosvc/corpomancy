@@ -10,12 +10,12 @@ tradition: Enchantment
 
 *5th-level Sales & Stakeholder Management*
 
-**Casting Time:** 1 hour
-**Range/Area:** 120 feet, or the reach of a livestream
+**Casting Time:** 1 hour<br>
+**Range/Area:** 120 feet, or the reach of a livestream<br>
 **Components:** V, S, M (a slide deck containing at least one aspirational
-graphic of an upward-trending line with no axis labels)
+graphic of an upward-trending line with no axis labels)<br>
 **Duration:** 30 days, or until the next All-Hands is cast, whichever is
-shorter
+shorter<br>
 **Classes:** CEO, VP of Communications, Head of People
 
 You address every creature able to see or hear you as a group. Each must

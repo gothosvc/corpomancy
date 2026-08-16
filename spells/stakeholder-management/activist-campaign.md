@@ -11,13 +11,13 @@ tradition: Enchantment
 *8th-level Sales & Stakeholder Management*
 
 **Casting Time:** 1 action to file (a 13D), though the campaign runs 3 to
-12 months
+12 months<br>
 **Range/Area:** Special; one organization in which you hold a stake, or
-can acquire one
+can acquire one<br>
 **Components:** V, S, M (a white paper detailing the target's failures,
-consumed; a stake in the target organization, not consumed)
+consumed; a stake in the target organization, not consumed)<br>
 **Duration:** Until a shareholder vote is held or the target capitulates,
-whichever comes first
+whichever comes first<br>
 **Classes:** Activist Investor, Fund Manager
 
 Choose one organization in which you hold a qualifying stake. You attempt

@@ -10,12 +10,12 @@ tradition: Enchantment
 
 *3rd-level Sales & Stakeholder Management*
 
-**Casting Time:** 1 action, typically disguised as "grabbing coffee"
+**Casting Time:** 1 action, typically disguised as "grabbing coffee"<br>
 **Range/Area:** 30 feet, or the length of a phone call; one employee of a
-rival organization you can identify as a competitor
+rival organization you can identify as a competitor<br>
 **Components:** V, S, M (an offer letter with a number circled twice,
-consumed)
-**Duration:** Instantaneous
+consumed)<br>
+**Duration:** Instantaneous<br>
 **Classes:** Hiring Manager, VP of Talent, Founder
 
 Choose one employee of a rival organization. That creature must succeed on

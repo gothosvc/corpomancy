@@ -10,12 +10,12 @@ tradition: Divination
 
 *9th-level Analytics & Forecasting*
 
-**Casting Time:** 1 minute
-**Range/Area:** Self
+**Casting Time:** 1 minute<br>
+**Range/Area:** Self<br>
 **Components:** V, S, M (a training dataset comprising the entirety of
-your organization's historical data, consumed)
+your organization's historical data, consumed)<br>
 **Duration:** Permanent, until the underlying data distribution shifts — a
-condition this spell cannot detect in itself
+condition this spell cannot detect in itself<br>
 **Classes:** VP of Data, Chief Data Officer
 
 You create a permanent, standing divination that answers any question

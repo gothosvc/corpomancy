@@ -10,13 +10,13 @@ tradition: Abjuration
 
 *2nd-level Compliance & Risk*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action<br>
 **Range/Area:** 60 feet, or the reach of a process server; one creature or
 organization you can identify as infringing, competing, or otherwise
-interfering
-**Components:** V, S, M (a letter on law firm letterhead, consumed)
+interfering<br>
+**Components:** V, S, M (a letter on law firm letterhead, consumed)<br>
 **Duration:** Instantaneous; the target is bound for 30 days or until the
-underlying dispute is resolved
+underlying dispute is resolved<br>
 **Classes:** General Counsel, outside counsel
 
 Choose one creature or organization within range. Make a ranged attack

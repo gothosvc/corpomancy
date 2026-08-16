@@ -10,12 +10,12 @@ tradition: Divination
 
 *2nd-level Analytics & Forecasting*
 
-**Casting Time:** 10 minutes
+**Casting Time:** 10 minutes<br>
 **Range/Area:** Unlimited; one organization you can identify, or wish to
-identify, as a competitor
+identify, as a competitor<br>
 **Components:** V, S, M (a LinkedIn search history, a leaked pricing
-sheet, or a former employee's memory)
-**Duration:** Concentration, up to 1 hour
+sheet, or a former employee's memory)<br>
+**Duration:** Concentration, up to 1 hour<br>
 **Classes:** Data Analyst, VP of Strategy, Product Marketing Manager
 
 You divine a curated picture of a rival organization's internal metrics,

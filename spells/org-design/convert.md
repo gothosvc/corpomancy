@@ -11,12 +11,12 @@ tradition: Transmutation
 *2nd-level Org Design & Process Change*
 
 **Casting Time:** 1 action, following a successful Headcount Approval check
-(see Conjure Headcount)
-**Range/Area:** Touch
+(see Conjure Headcount)<br>
+**Range/Area:** Touch<br>
 **Components:** V, S, M (an offer letter, consumed; a signature, not
-consumed)
+consumed)<br>
 **Duration:** Permanent, until the new form is voluntarily or involuntarily
-ended
+ended<br>
 **Classes:** Hiring Manager, HR Business Partner
 
 Touch one willing Contractor. The Contractor is transformed into a

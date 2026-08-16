@@ -11,11 +11,11 @@ tradition: Transmutation
 *4th-level Org Design & Process Change*
 
 **Casting Time:** 1 action to announce, 1 to 3 months to actually take
-effect
-**Range/Area:** Sight (the org chart)
+effect<br>
+**Range/Area:** Sight (the org chart)<br>
 **Components:** V, S, M (a new org chart, drawn before the old one is fully
-understood)
-**Duration:** Until the next Reorg
+understood)<br>
+**Duration:** Until the next Reorg<br>
 **Classes:** CEO, Chief of Staff, VP of People
 
 You restructure the reporting lines, team boundaries, and titles of a

@@ -11,11 +11,11 @@ tradition: Evocation
 *1st-level Finance & Cost-Cutting*
 
 **Casting Time:** 1 reaction, which you take when you or your organization
-takes damage
-**Range/Area:** Self
-**Components:** V, S, M (a depreciation schedule)
+takes damage<br>
+**Range/Area:** Self<br>
+**Components:** V, S, M (a depreciation schedule)<br>
 **Duration:** Instantaneous, with an effect amortized over a schedule
-lasting up to 5 years
+lasting up to 5 years<br>
 **Classes:** CFO, Controller, Auditor
 
 You reduce the triggering damage by an amount up to twice your caster

@@ -11,11 +11,11 @@ tradition: Evocation
 *9th-level Finance & Cost-Cutting*
 
 **Casting Time:** 1 action, though the underlying process (roadshow,
-filings) takes 6 to 12 months
-**Range/Area:** Self (the entire organization)
+filings) takes 6 to 12 months<br>
+**Range/Area:** Self (the entire organization)<br>
 **Components:** V, S, M (an S-1 filing, consumed; a ticker symbol, not
-consumed)
-**Duration:** Instantaneous; the effects are permanent
+consumed)<br>
+**Duration:** Instantaneous; the effects are permanent<br>
 **Classes:** CEO, CFO, board (as a ritual requiring unanimous consent)
 
 You convert your organization's entire ownership structure into liquid

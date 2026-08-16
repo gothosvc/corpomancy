@@ -10,13 +10,13 @@ tradition: Necromancy
 
 *3rd-level Legacy Systems & Zombie Projects*
 
-**Casting Time:** 1 minute
+**Casting Time:** 1 minute<br>
 **Range/Area:** Touch (a decommissioned system, deprecated codebase, or
-cancelled initiative within reach)
+cancelled initiative within reach)<br>
 **Components:** V, S, M (the original documentation, which is never found,
-so a facsimile must be produced from memory)
+so a facsimile must be produced from memory)<br>
 **Duration:** Until dispelled, or until the target fails a Maintenance
-saving throw
+saving throw<br>
 **Classes:** Staff Engineer, Engineering Manager, whoever currently holds
 the pager
 

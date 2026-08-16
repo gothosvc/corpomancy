@@ -10,11 +10,11 @@ tradition: Illusion
 
 *2nd-level Marketing & Optics*
 
-**Casting Time:** 1 action
-**Range/Area:** Self, or one product or practice you designate
-**Components:** V, S, M (a stock photo of a forest, or a leaf icon)
+**Casting Time:** 1 action<br>
+**Range/Area:** Self, or one product or practice you designate<br>
+**Components:** V, S, M (a stock photo of a forest, or a leaf icon)<br>
 **Duration:** 1 year, or until an independent investigation succeeds
-against it
+against it<br>
 **Classes:** CMO, Head of Sustainability, VP of Communications
 
 You cause a product, practice, or organization to appear environmentally

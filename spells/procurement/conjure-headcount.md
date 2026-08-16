@@ -11,12 +11,12 @@ tradition: Conjuration
 *3rd-level Procurement & Resourcing*
 
 **Casting Time:** 1 action, contingent on a successful Headcount Approval
-check
-**Range/Area:** Self
+check<br>
+**Range/Area:** Self<br>
 **Components:** V, S, M (an approved requisition form, consumed; a budget
-line, occupied but not consumed, for the duration)
+line, occupied but not consumed, for the duration)<br>
 **Duration:** Until the position is eliminated by a Reduction in Force or
-ended by attrition
+ended by attrition<br>
 **Classes:** Hiring Manager, VP of Talent, Finance Business Partner
 
 You conjure one full-time employee, filling an open budget line. The

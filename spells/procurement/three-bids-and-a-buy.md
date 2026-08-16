@@ -10,11 +10,11 @@ tradition: Conjuration
 
 *1st-level Procurement & Resourcing*
 
-**Casting Time:** 1 action, plus a mandatory waiting period of 2 weeks
-**Range/Area:** Special (any three vendors capable of being contacted)
+**Casting Time:** 1 action, plus a mandatory waiting period of 2 weeks<br>
+**Range/Area:** Special (any three vendors capable of being contacted)<br>
 **Components:** V, S, M (three request-for-proposal documents, only one of
-which is sent in good faith)
-**Duration:** Instantaneous
+which is sent in good faith)<br>
+**Duration:** Instantaneous<br>
 **Classes:** Procurement Officer, Category Manager
 
 You request formal proposals from three vendors of your choosing for a good

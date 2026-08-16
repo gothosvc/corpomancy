@@ -11,10 +11,10 @@ tradition: Enchantment
 *2nd-level Sales & Stakeholder Management*
 
 **Casting Time:** 1 reaction, which you take when a prospect raises a
-concern about price, timeline, or fit
-**Range/Area:** 30 feet
-**Components:** V
-**Duration:** Instantaneous
+concern about price, timeline, or fit<br>
+**Range/Area:** 30 feet<br>
+**Components:** V<br>
+**Duration:** Instantaneous<br>
 **Classes:** Account Executive, Sales Engineer
 
 When a prospect voices a specific objection, you may respond immediately

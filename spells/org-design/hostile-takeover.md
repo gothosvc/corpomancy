@@ -11,13 +11,13 @@ tradition: Transmutation
 *8th-level Org Design & Process Change*
 
 **Casting Time:** 1 action to initiate (a Tender Offer), though the
-acquisition takes 3 to 18 months to complete, contested at every stage
+acquisition takes 3 to 18 months to complete, contested at every stage<br>
 **Range/Area:** Special; one organization you can identify as a
-competitor, or one whose Runway has already reached 0
+competitor, or one whose Runway has already reached 0<br>
 **Components:** V, S, M (a tender offer, consumed; a war chest of capital
-equal to the target's estimated valuation, consumed)
+equal to the target's estimated valuation, consumed)<br>
 **Duration:** Permanent; the target's structure is transmuted into a
-subsidiary of your own
+subsidiary of your own<br>
 **Classes:** CEO, board, Chief of Staff
 
 Choose one organization meeting the range's requirements. Its leadership

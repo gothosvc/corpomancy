@@ -11,12 +11,12 @@ tradition: Necromancy
 *5th-level Legacy Systems & Zombie Projects*
 
 **Casting Time:** 1 action to initiate, though full effect takes 1d4
-months (a Migration Incentive)
+months (a Migration Incentive)<br>
 **Range/Area:** Unlimited; one rival organization's installed customer
-base, where the rival is one you can identify as a competitor
+base, where the rival is one you can identify as a competitor<br>
 **Components:** V, S, M (a competitive pricing offer, consumed; a data
-migration tool, not consumed)
-**Duration:** Until the migration window closes, commonly 90 days
+migration tool, not consumed)<br>
+**Duration:** Until the migration window closes, commonly 90 days<br>
 **Classes:** VP of Sales, Head of Growth
 
 Choose a rival organization's product or system. You offer their existing

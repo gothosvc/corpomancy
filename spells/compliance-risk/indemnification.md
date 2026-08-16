@@ -11,13 +11,13 @@ tradition: Abjuration
 *3rd-level Compliance & Risk*
 
 **Casting Time:** 1 reaction, which you take when you or your organization
-would suffer liability, damage, or blame
+would suffer liability, damage, or blame<br>
 **Range/Area:** 30 feet, or the reach of a signed contract, whichever is
-greater
+greater<br>
 **Components:** V, S, M (a contract containing an indemnification clause,
-previously signed by the target)
+previously signed by the target)<br>
 **Duration:** Instantaneous; the redirected consequence lasts for the life
-of the underlying agreement
+of the underlying agreement<br>
 **Classes:** General Counsel, Risk Manager, Procurement Officer
 
 Choose a creature within range who has previously agreed, in writing, to

@@ -10,11 +10,11 @@ tradition: Evocation
 
 *1st-level Finance & Cost-Cutting*
 
-**Casting Time:** 1 action
+**Casting Time:** 1 action<br>
 **Range/Area:** Self (this spell affects the caster's organization as a
-whole, treated as a single creature for the purposes of this spell)
-**Components:** V, S, M (a signed term sheet, consumed)
-**Duration:** Concentration, up to 18 months
+whole, treated as a single creature for the purposes of this spell)<br>
+**Components:** V, S, M (a signed term sheet, consumed)<br>
+**Duration:** Concentration, up to 18 months<br>
 **Classes:** Founder, CEO, CFO
 
 The caster converts a quantity of committed capital into a reserve of

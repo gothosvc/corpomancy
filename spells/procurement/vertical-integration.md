@@ -11,13 +11,13 @@ tradition: Conjuration
 *7th-level Procurement & Resourcing*
 
 **Casting Time:** 1 action, contingent on successful Headcount Approval
-and Discovery checks for every acquired link (a Supply Chain Audit)
+and Discovery checks for every acquired link (a Supply Chain Audit)<br>
 **Range/Area:** Special; every vendor or supplier relationship currently
 under a Conjure Contractor or Three Bids and a Buy arrangement with your
-organization
+organization<br>
 **Components:** V, S, M (a capital expenditure budget, consumed; an
-acquisition agreement per target, consumed)
-**Duration:** Permanent
+acquisition agreement per target, consumed)<br>
+**Duration:** Permanent<br>
 **Classes:** COO, VP of Operations, Chief Procurement Officer
 
 You conjure ownership of one or more organizations currently supplying

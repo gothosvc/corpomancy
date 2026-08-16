@@ -11,10 +11,10 @@ tradition: Divination
 *3rd-level Analytics & Forecasting*
 
 **Casting Time:** 1 hour, conducted as a meeting with all relevant parties
-present, or as many as could be scheduled on short notice
-**Range/Area:** Self
-**Components:** V, S, M (an incident timeline, incomplete)
-**Duration:** Instantaneous
+present, or as many as could be scheduled on short notice<br>
+**Range/Area:** Self<br>
+**Components:** V, S, M (an incident timeline, incomplete)<br>
+**Duration:** Instantaneous<br>
 **Classes:** Engineering Manager, Site Reliability Engineer, VP of
 Engineering
 

@@ -10,12 +10,12 @@ tradition: Abjuration
 
 *1st-level Compliance & Risk*
 
-**Casting Time:** 1 action
-**Range/Area:** Touch
+**Casting Time:** 1 action<br>
+**Range/Area:** Touch<br>
 **Components:** V, S, M (a signed agreement and a one-time payment of
-consideration, both consumed)
+consideration, both consumed)<br>
 **Duration:** Until the underlying agreement expires; many are drafted to
-never expire
+never expire<br>
 **Classes:** General Counsel, HR Business Partner, Compliance Officer
 
 Touch a willing or coerced creature. That creature is bound from speaking,

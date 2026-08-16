@@ -11,12 +11,12 @@ tradition: Evocation
 *4th-level Finance & Cost-Cutting*
 
 **Casting Time:** 1 action, though the position must be held for 1d6
-months before it can be closed
+months before it can be closed<br>
 **Range/Area:** Unlimited; one publicly traded organization you can
-identify as a competitor
+identify as a competitor<br>
 **Components:** V, S, M (borrowed shares, consumed; a thesis document, not
-consumed)
-**Duration:** Until the position is closed
+consumed)<br>
+**Duration:** Until the position is closed<br>
 **Classes:** Fund Manager, Analyst
 
 Choose a rival, publicly traded organization. You bet against its stock

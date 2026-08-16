@@ -11,11 +11,11 @@ tradition: Divination
 *2nd-level Analytics & Forecasting*
 
 **Casting Time:** 1 action, typically performed at the start of a fiscal
-quarter
-**Range/Area:** Self
+quarter<br>
+**Range/Area:** Self<br>
 **Components:** V, S, M (a spreadsheet containing at least one assumption
-labeled "TBD")
-**Duration:** Instantaneous
+labeled "TBD")<br>
+**Duration:** Instantaneous<br>
 **Classes:** Data Analyst, Finance Business Partner, VP of Strategy
 
 You divine a general omen about the outcome of a course of action your

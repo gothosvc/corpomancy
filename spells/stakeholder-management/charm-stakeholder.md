@@ -10,11 +10,11 @@ tradition: Enchantment
 
 *1st-level Sales & Stakeholder Management*
 
-**Casting Time:** 1 action, typically disguised as "grabbing coffee"
-**Range/Area:** 30 feet, or the length of a video call
-**Components:** V, S (an enthusiastic tone and unbroken eye contact)
+**Casting Time:** 1 action, typically disguised as "grabbing coffee"<br>
+**Range/Area:** 30 feet, or the length of a video call<br>
+**Components:** V, S (an enthusiastic tone and unbroken eye contact)<br>
 **Duration:** 1 hour, or until the target is presented with a competing
-proposal, whichever comes first
+proposal, whichever comes first<br>
 **Classes:** Account Executive, Product Manager, anyone with a deck
 
 Choose one creature you can see within range. The target must succeed on a
