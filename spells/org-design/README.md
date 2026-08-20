@@ -23,4 +23,5 @@ the substance.
 **Vocabulary recorded in the field:** reorg, pivot, digital
 transformation, org chart, dotted line, matrixed reporting, change
 management, rightsizing, synergy, restructure, agile transformation, "new
-operating model."
+operating model," return to office, in-person collaboration, business-
+friendly state, radical candor, flavor-of-the-month management.

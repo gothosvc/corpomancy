@@ -21,30 +21,30 @@ introduces it.
 
 | Save | Represents | Introduced in |
 |---|---|---|
-| Tenure | Seniority, leverage, and political protection — resisting a personnel-targeting or persuasion effect | `spells/finance/reduction-in-force.md` (also: `nondisclosure.md`, `charm-stakeholder.md`, `all-hands.md`, `objection-handling.md`, `org-design/hostile-takeover.md`, `stakeholder-management/activist-campaign.md`, `stakeholder-management/poach.md`, `legacy-systems/rip-and-replace.md`) |
-| Solvency | Whether the org can absorb a shock without collapsing, rolled when a resource pool (e.g. Runway) hits 0 or when a shifted liability lands | `spells/finance/burn-rate.md` (also: `compliance-risk/indemnification.md`, `org-design/hostile-takeover.md`, `compliance-risk/cease-and-desist.md`, `finance/short-position.md`) |
+| Tenure | Seniority, leverage, and political protection — resisting a personnel-targeting or persuasion effect | `spells/finance/reduction-in-force.md` (also: `nondisclosure.md`, `charm-stakeholder.md`, `all-hands.md`, `objection-handling.md`, `org-design/hostile-takeover.md`, `stakeholder-management/activist-campaign.md`, `stakeholder-management/poach.md`, `legacy-systems/rip-and-replace.md`, `finance/impossible-deadline.md`, `compliance-risk/golden-parachute.md`, `org-design/return-to-office-mandate.md`, `org-design/move-hq-to-austin.md`, `procurement/acquihire.md`) |
+| Solvency | Whether the org can absorb a shock without collapsing, rolled when a resource pool (e.g. Runway) hits 0 or when a shifted liability lands | `spells/finance/burn-rate.md` (also: `compliance-risk/indemnification.md`, `org-design/hostile-takeover.md`, `compliance-risk/cease-and-desist.md`, `finance/short-position.md`, `procurement/bid-war.md`, `compliance-risk/litigation-blitz.md`) |
 | Maintenance | Whether a legacy system holds together for another stretch of time, keyed to Technical Debt score | `spells/legacy-systems/animate-legacy-system.md` |
-| Discovery | Whether a warded record, process, or claim resists a formal attempt to verify or compel disclosure of the truth behind it | `spells/compliance-risk/document-retention.md` (also: `procurement/three-bids-and-a-buy.md`, `marketing-optics/greenwash.md`, `compliance-risk/chapter-11.md`, `marketing-optics/crisis-management.md`, `marketing-optics/smear-campaign.md`, `procurement/vendor-lock-in.md`) |
+| Discovery | Whether a warded record, process, or claim resists a formal attempt to verify or compel disclosure of the truth behind it | `spells/compliance-risk/document-retention.md` (also: `procurement/three-bids-and-a-buy.md`, `marketing-optics/greenwash.md`, `compliance-risk/chapter-11.md`, `marketing-optics/crisis-management.md`, `marketing-optics/smear-campaign.md`, `procurement/vendor-lock-in.md`, `marketing-optics/work-from-beach-home.md`, `analytics-forecasting/leak-the-roadmap.md`) |
 
 ## Derived Stats / Scores
 
 | Stat | Used for | Introduced in |
 |---|---|---|
 | Technical Debt score | Drives Maintenance saving throws for legacy/undead systems — higher score, harder save | `spells/legacy-systems/animate-legacy-system.md` |
-| Blamelessness score | Drives whether a post-incident check finds a systemic cause or scapegoats an individual | `spells/analytics-forecasting/root-cause-analysis.md` (also referenced by: `marketing-optics/smear-campaign.md`, `stakeholder-management/activist-campaign.md`, `finance/short-position.md`) |
+| Blamelessness score | Drives whether a post-incident check finds a systemic cause or scapegoats an individual | `spells/analytics-forecasting/root-cause-analysis.md` (also referenced by: `marketing-optics/smear-campaign.md`, `stakeholder-management/activist-campaign.md`, `finance/short-position.md`, `compliance-risk/deflect-accountability.md`) |
 
 ## Resource Pools (temporary-HP analogs)
 
 | Pool | Represents | Behavior | Introduced in |
 |---|---|---|---|
 | Runway | A capital reserve absorbing damage before real HP | Depletes on a fixed per-turn schedule that cannot be prevented, in addition to absorbing damage normally | `spells/finance/burn-rate.md` (also referenced by: `org-design/hostile-takeover.md`, `finance/short-position.md`) |
-| Windfall | A reserve of temporary resources gained from a major capital event, spendable to cast another spell without expending a spell slot | Granted once, expires if unspent after a stated window; a few spells can also cause a *target* to gain one as an ironic side effect of the caster's own failure | `spells/finance/ipo.md` (also: `finance/short-position.md`) |
+| Windfall | A reserve of temporary resources gained from a major capital event, spendable to cast another spell without expending a spell slot | Granted once, expires if unspent after a stated window; a few spells can also cause a *target* to gain one as an ironic side effect of the caster's own failure | `spells/finance/ipo.md` (also: `finance/short-position.md`, `compliance-risk/golden-parachute.md`, `analytics-forecasting/leak-the-roadmap.md`) |
 
 ## Deferred Effects
 
 | Effect | Represents | Behavior | Introduced in |
 |---|---|---|---|
-| Amortized Loss | Damage deferred and spread across future turns instead of taken immediately | Total damage taken is never less than the amount originally deferred, and increases with each schedule extension (interest) | `spells/finance/capitalize-the-loss.md` (also referenced by: `compliance-risk/chapter-11.md`, `procurement/vertical-integration.md`) |
+| Amortized Loss | Damage deferred and spread across future turns instead of taken immediately | Total damage taken is never less than the amount originally deferred, and increases with each schedule extension (interest) | `spells/finance/capitalize-the-loss.md` (also referenced by: `compliance-risk/chapter-11.md`, `procurement/vertical-integration.md`, `compliance-risk/litigation-blitz.md`) |
 
 ## Conditions / Statuses
 
@@ -83,7 +83,7 @@ referenced across more than one finding:
 
 | Target | Represents | Introduced in |
 |---|---|---|
-| Rival Organization | The standard targeting phrase for adversarial ("combat") spells: "one organization you can identify as a competitor." Casting Competitive Intelligence on an org formally satisfies this requirement if you don't already qualify some other way (e.g. public knowledge, a prior encounter). | `spells/analytics-forecasting/competitive-intelligence.md` (used as a target by: `marketing-optics/smear-campaign.md`, `stakeholder-management/poach.md`, `compliance-risk/cease-and-desist.md`, `finance/short-position.md`, `org-design/hostile-takeover.md`, `legacy-systems/rip-and-replace.md`) |
+| Rival Organization | The standard targeting phrase for adversarial ("combat") spells: "one organization you can identify as a competitor." Casting Competitive Intelligence on an org formally satisfies this requirement if you don't already qualify some other way (e.g. public knowledge, a prior encounter). | `spells/analytics-forecasting/competitive-intelligence.md` (used as a target by: `marketing-optics/smear-campaign.md`, `stakeholder-management/poach.md`, `compliance-risk/cease-and-desist.md`, `finance/short-position.md`, `org-design/hostile-takeover.md`, `legacy-systems/rip-and-replace.md`, `procurement/acquihire.md`, `procurement/bid-war.md`, `analytics-forecasting/leak-the-roadmap.md`, `compliance-risk/litigation-blitz.md`) |
 
 Use this exact phrase ("one organization you can identify as a competitor")
 in any future combat spell's Range/Area rather than inventing new wording

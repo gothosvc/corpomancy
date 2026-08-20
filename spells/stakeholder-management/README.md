@@ -23,4 +23,4 @@ wins by changing minds, not by changing facts.
 **Vocabulary recorded in the field:** buy-in, alignment, stakeholder map,
 champion, close the deal, objection handling, rapport, executive sponsor,
 win-win, consensus building, relationship capital, upsell, cross-sell,
-"let's take this offline."
+"let's take this offline," "plz fix," drive-by comment, seen-zoned.

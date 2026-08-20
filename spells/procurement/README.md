@@ -22,4 +22,5 @@ caster is always negotiating with a bureaucracy as much as with reality.
 **Vocabulary recorded in the field:** requisition, headcount approval,
 RFP, vendor onboarding, budget line, backfill, statement of work, purchase
 order, contractor conversion, three bids and a buy, capex vs. opex, lead
-time, sole source justification.
+time, sole source justification, acquihire, talent lift-out, nepotism
+hire, winner's curse, related-party transaction.

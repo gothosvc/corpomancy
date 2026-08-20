@@ -23,4 +23,5 @@ deals damage and everyone can see the number.
 **Vocabulary recorded in the field:** burn rate, runway, EBITDA,
 write-off, cost center, budget reallocation, headcount reduction,
 discretionary spend freeze, scorched-earth cuts, capital efficiency,
-margin, austerity measures, the axe.
+margin, austerity measures, the axe, cost of delay, aggressive timeline,
+"we have faith in this team."

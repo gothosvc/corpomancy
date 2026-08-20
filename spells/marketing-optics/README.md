@@ -23,4 +23,5 @@ how something is perceived, not what it is.
 **Vocabulary recorded in the field:** narrative control, messaging, brand
 refresh, spin, optics, greenwashing, talking points, reframe, on-message,
 investor deck, soft launch, thought leadership, "let me be clear" (they
-will not be clear).
+will not be clear), "available," focus time, async-first, out of office
+(not actually out of office).
