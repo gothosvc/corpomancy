@@ -22,4 +22,5 @@ the future with great confidence and middling accuracy.
 **Vocabulary recorded in the field:** leading indicator, dashboard, north
 star metric, cohort analysis, forecast variance, root cause analysis, A/B
 test, statistical significance, trend line, sentiment analysis, market
-research, predictive model, retro.
+research, predictive model, retro, sources familiar with the matter,
+competitive intel, unconfirmed report.

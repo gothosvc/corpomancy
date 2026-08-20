@@ -96,31 +96,41 @@ same phenomenon twice.
 
 ## Status
 
-39 findings recorded and awaiting peer review — the original 24 (levels
-1-6, one trio per discipline), plus a second pass adding 8 high-level
-capstone rituals (levels 7-9, one per discipline) and 7 spells that, for
-the first time, target a rival organization rather than the caster's own.
-We are choosing not to dwell on how easily that second category came to
-us:
+52 findings recorded and awaiting peer review — the original 24 (levels
+1-6, one trio per discipline), a second pass adding 8 high-level capstone
+rituals (levels 7-9, one per discipline) and 7 spells that, for the first
+time, targeted a rival organization rather than the caster's own, and a
+third pass of 13 exclusively executive-cast findings: 7 general additions,
+2 more capstone-level rituals, and 4 more combat spells that finally gave
+Procurement & Resourcing and Analytics & Forecasting an offensive entry
+each. We are choosing not to dwell on how easily any of these categories
+came to us:
 
 - **Compliance & Risk:** Document Retention, Indemnification, Nondisclosure,
-  Chapter 11 *(9th, capstone)*, Cease and Desist *(combat)*
+  Chapter 11 *(9th, capstone)*, Cease and Desist *(combat)*, Golden
+  Parachute, Deflect Accountability, Litigation Blitz *(combat)*
 - **Procurement & Resourcing:** Conjure Contractor, Conjure Headcount, Three
   Bids and a Buy, Vertical Integration *(7th, capstone)*, Vendor Lock-In
-  *(combat)*
+  *(combat)*, Hire Nephew, Acquihire *(combat)*, Bid War *(combat)*
 - **Analytics & Forecasting:** Forecast, Dashboard, Root Cause Analysis, The
-  Algorithm *(9th, capstone)*, Competitive Intelligence *(combat)*
+  Algorithm *(9th, capstone)*, Competitive Intelligence *(combat)*, Leak
+  the Roadmap *(combat)*
 - **Sales & Stakeholder Management:** Charm Stakeholder, All-Hands,
-  Objection Handling, Activist Campaign *(8th, capstone)*, Poach *(combat)*
+  Objection Handling, Activist Campaign *(8th, capstone)*, Poach *(combat)*,
+  Drive-By Comment
 - **Finance & Cost-Cutting:** Reduction in Force, Burn Rate, Capitalize the
-  Loss, IPO *(9th, capstone)*, Short Position *(combat)*
+  Loss, IPO *(9th, capstone)*, Short Position *(combat)*, Impossible
+  Deadline
 - **Marketing & Optics:** Rebrand, Greenwash, Thought Leadership, Crisis
-  Management *(8th, capstone)*, Smear Campaign *(combat)*
+  Management *(8th, capstone)*, Smear Campaign *(combat)*, Work From Beach
+  Home
 - **Legacy Systems & Zombie Projects:** Animate Legacy System, Speak with
   Former Employee, Bus Factor, System Sunset *(7th, capstone)*, Rip and
   Replace *(combat)*
 - **Org Design & Process Change:** Reorg, Convert, Agile Transformation,
-  Hostile Takeover *(8th, capstone + combat in one)*
+  Hostile Takeover *(8th, capstone + combat in one)*, New Management Style,
+  Return to Office Mandate *(8th, capstone)*, Move HQ to Austin *(9th,
+  capstone)*
 
 Combat spells introduce a new targeting convention — "one organization you
 can identify as a competitor" — logged in
