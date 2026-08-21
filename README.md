@@ -96,7 +96,7 @@ same phenomenon twice.
 
 ## Status
 
-62 findings recorded and awaiting peer review, spanning levels 0-9 across
+68 findings recorded and awaiting peer review, spanning levels 0-9 across
 all eight disciplines:
 
 - **Compliance & Risk:** Indemnification, Cease and Desist, Golden Parachute
