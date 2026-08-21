@@ -23,4 +23,6 @@ this work, only necessary to it.
 **Vocabulary recorded in the field:** tech debt, deprecated but still in
 prod, zombie project, tribal knowledge, bus factor, sunset (never actually
 happens), maintenance mode, "the person who built this left,"
-undocumented, EOL, grandfathered, institutional memory.
+undocumented, EOL, grandfathered, institutional memory, "who owns this
+spreadsheet," #REF!, "did you try turning it off and on again," legacy
+formula.

@@ -21,16 +21,16 @@ introduces it.
 
 | Save | Represents | Introduced in |
 |---|---|---|
-| Tenure | Seniority, leverage, and political protection — resisting a personnel-targeting or persuasion effect | `spells/finance/reduction-in-force.md` (also: `nondisclosure.md`, `charm-stakeholder.md`, `all-hands.md`, `objection-handling.md`, `org-design/hostile-takeover.md`, `stakeholder-management/activist-campaign.md`, `stakeholder-management/poach.md`, `legacy-systems/rip-and-replace.md`, `finance/impossible-deadline.md`, `compliance-risk/golden-parachute.md`, `org-design/return-to-office-mandate.md`, `org-design/move-hq-to-austin.md`, `procurement/acquihire.md`) |
+| Tenure | Seniority, leverage, and political protection — resisting a personnel-targeting or persuasion effect | `spells/finance/reduction-in-force.md` (also: `nondisclosure.md`, `charm-stakeholder.md`, `all-hands.md`, `objection-handling.md`, `org-design/hostile-takeover.md`, `stakeholder-management/activist-campaign.md`, `stakeholder-management/poach.md`, `legacy-systems/rip-and-replace.md`, `finance/impossible-deadline.md`, `compliance-risk/golden-parachute.md`, `org-design/return-to-office-mandate.md`, `org-design/move-hq-to-austin.md`, `procurement/acquihire.md`, `compliance-risk/bind-subordinate.md`, `stakeholder-management/reply-all.md`, `stakeholder-management/expand-territory.md`) |
 | Solvency | Whether the org can absorb a shock without collapsing, rolled when a resource pool (e.g. Runway) hits 0 or when a shifted liability lands | `spells/finance/burn-rate.md` (also: `compliance-risk/indemnification.md`, `org-design/hostile-takeover.md`, `compliance-risk/cease-and-desist.md`, `finance/short-position.md`, `procurement/bid-war.md`, `compliance-risk/litigation-blitz.md`) |
-| Maintenance | Whether a legacy system holds together for another stretch of time, keyed to Technical Debt score | `spells/legacy-systems/animate-legacy-system.md` |
-| Discovery | Whether a warded record, process, or claim resists a formal attempt to verify or compel disclosure of the truth behind it | `spells/compliance-risk/document-retention.md` (also: `procurement/three-bids-and-a-buy.md`, `marketing-optics/greenwash.md`, `compliance-risk/chapter-11.md`, `marketing-optics/crisis-management.md`, `marketing-optics/smear-campaign.md`, `procurement/vendor-lock-in.md`, `marketing-optics/work-from-beach-home.md`, `analytics-forecasting/leak-the-roadmap.md`) |
+| Maintenance | Whether a legacy system holds together for another stretch of time, keyed to Technical Debt score | `spells/legacy-systems/animate-legacy-system.md` (also: `legacy-systems/power-word-forced-restart.md`) |
+| Discovery | Whether a warded record, process, or claim resists a formal attempt to verify or compel disclosure of the truth behind it | `spells/compliance-risk/document-retention.md` (also: `procurement/three-bids-and-a-buy.md`, `marketing-optics/greenwash.md`, `compliance-risk/chapter-11.md`, `marketing-optics/crisis-management.md`, `marketing-optics/smear-campaign.md`, `procurement/vendor-lock-in.md`, `marketing-optics/work-from-beach-home.md`, `analytics-forecasting/leak-the-roadmap.md`, `legacy-systems/add-new-column.md`, `marketing-optics/viral-tweet.md`, `analytics-forecasting/performance-review.md`, `stakeholder-management/reply-all.md`) |
 
 ## Derived Stats / Scores
 
 | Stat | Used for | Introduced in |
 |---|---|---|
-| Technical Debt score | Drives Maintenance saving throws for legacy/undead systems — higher score, harder save | `spells/legacy-systems/animate-legacy-system.md` |
+| Technical Debt score | Drives Maintenance saving throws for legacy/undead systems — higher score, harder save | `spells/legacy-systems/animate-legacy-system.md` (also: `legacy-systems/add-new-column.md`) |
 | Blamelessness score | Drives whether a post-incident check finds a systemic cause or scapegoats an individual | `spells/analytics-forecasting/root-cause-analysis.md` (also referenced by: `marketing-optics/smear-campaign.md`, `stakeholder-management/activist-campaign.md`, `finance/short-position.md`, `compliance-risk/deflect-accountability.md`) |
 
 ## Resource Pools (temporary-HP analogs)
@@ -38,7 +38,7 @@ introduces it.
 | Pool | Represents | Behavior | Introduced in |
 |---|---|---|---|
 | Runway | A capital reserve absorbing damage before real HP | Depletes on a fixed per-turn schedule that cannot be prevented, in addition to absorbing damage normally | `spells/finance/burn-rate.md` (also referenced by: `org-design/hostile-takeover.md`, `finance/short-position.md`) |
-| Windfall | A reserve of temporary resources gained from a major capital event, spendable to cast another spell without expending a spell slot | Granted once, expires if unspent after a stated window; a few spells can also cause a *target* to gain one as an ironic side effect of the caster's own failure | `spells/finance/ipo.md` (also: `finance/short-position.md`, `compliance-risk/golden-parachute.md`, `analytics-forecasting/leak-the-roadmap.md`) |
+| Windfall | A reserve of temporary resources gained from a major capital event, spendable to cast another spell without expending a spell slot | Granted once, expires if unspent after a stated window; a few spells can also cause a *target* to gain one as an ironic side effect of the caster's own failure | `spells/finance/ipo.md` (also: `finance/short-position.md`, `compliance-risk/golden-parachute.md`, `analytics-forecasting/leak-the-roadmap.md`, `marketing-optics/viral-tweet.md`) |
 
 ## Deferred Effects
 
@@ -51,7 +51,8 @@ introduces it.
 | Condition | Effect | Removed by | Introduced in |
 |---|---|---|---|
 | Insolvent | Incapacitated-equivalent; the org cannot act | Chapter 11 is now a spell that directly interacts with this condition (it doesn't remove it, but suspends its consequences); no spell removes it outright yet — we keep meaning to look into that | `spells/finance/burn-rate.md` (also referenced by: `compliance-risk/chapter-11.md`, `finance/short-position.md`) |
-| Documented (status, not condition) | Satisfies any other spell/effect's prerequisite that requires accurate documentation, regardless of whether documentation actually exists | N/A — persists with the system | `spells/legacy-systems/animate-legacy-system.md` (also granted by: `marketing-optics/greenwash.md`, at higher levels) |
+| Documented (status, not condition) | Satisfies any other spell/effect's prerequisite that requires accurate documentation, regardless of whether documentation actually exists | N/A — persists with the system | `spells/legacy-systems/animate-legacy-system.md` (also granted by: `marketing-optics/greenwash.md`, at higher levels; `analytics-forecasting/performance-review.md`) |
+| Misaligned | Multiple creatures agree something was decided or compelled, each privately certain of a different, often mutually exclusive interpretation of what that was | Not removed — resolves only when the affected creatures act and the divergence becomes visible | `spells/stakeholder-management/power-word-buzzword.md` |
 
 ## Damage / Effect Types
 
@@ -78,6 +79,7 @@ referenced across more than one finding:
 |---|---|---|
 | Contractor | A temporary conjured worker; vanishes with all accumulated knowledge when its spell ends unless a Knowledge Transfer is separately arranged | `spells/procurement/conjure-contractor.md` (also targeted by: `org-design/convert.md`) |
 | Legacy Servant | An undead-equivalent risen from a decommissioned system or project | `spells/legacy-systems/animate-legacy-system.md` (destroyed, in the one controlled way possible, by `legacy-systems/system-sunset.md`; also referenced by `org-design/hostile-takeover.md` and `legacy-systems/rip-and-replace.md`) |
+| HR Representative | An investigatory entity summoned by formal complaint; loyal to minimizing the organization's own Solvency exposure, not to whichever party summoned it | `spells/compliance-risk/summon-human-resources.md` |
 
 ## Recurring Target Types
 
@@ -100,6 +102,15 @@ most reliable jokes in the collection so far), but it doesn't need a formal
 entry here — the format is just "1 action, but/though/contingent on X."
 Examples: `procurement/conjure-contractor.md`,
 `procurement/conjure-headcount.md`, `org-design/reorg.md`.
+
+A second naming pattern worth keeping consistent: "Power Word: X," for a
+spell that requires no saving throw and instead gates its effect on some
+threshold unrelated to the target's resistance — a callback to D&D's
+Power Word Kill/Stun/Heal, which likewise skip the save. Unlike the
+classical versions, ours don't need to be high-level or actually
+powerful; the joke works just as well undersized. Examples:
+`legacy-systems/power-word-forced-restart.md` (a cantrip),
+`stakeholder-management/power-word-buzzword.md`.
 
 ## Explicitly Not Tracked Here
 

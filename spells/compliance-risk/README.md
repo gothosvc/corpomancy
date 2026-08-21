@@ -27,4 +27,5 @@ indemnification, NDA, audit trail, safe harbor, risk register, sign-off,
 escalation path, paper trail, CYA, liability waiver, regulatory exposure,
 cease and desist, insurance rider, whistleblower hotline, golden
 parachute, change of control clause, "not here to point fingers," treble
-damages.
+damages, "take all concerns seriously," open-door policy, protected
+disclosure.
