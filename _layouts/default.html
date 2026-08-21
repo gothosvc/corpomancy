@@ -12,7 +12,7 @@
     <a class="site-title" href="{{ '/' | relative_url }}">Corpomancy</a>
     <span class="site-tagline">field notes on Corporate Thaumaturgy</span>
   </header>
-  <main>
+  <main{% if page.wide %} class="wide"{% endif %}>
     {{ content }}
   </main>
   <footer class="site-footer">
