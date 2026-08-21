@@ -91,28 +91,28 @@ Use this exact phrase ("one organization you can identify as a competitor")
 in any future combat spell's Range/Area rather than inventing new wording
 for the same requirement.
 
-## Recurring Framing Devices (not mechanically tracked)
+## Recording Conventions (not mechanically tracked)
 
-Not phenomena exactly, but a recurring joke-shape worth keeping consistent:
-several spells give a short, official-sounding Casting Time (often "1
-action") immediately undercut by the real-world bureaucratic delay before
-anything actually happens — a Lead Time, a Headcount Approval check, a
-multi-month rollout. Keep using this shape where it fits (it's one of the
-most reliable jokes in the collection so far), but it doesn't need a formal
-entry here — the format is just "1 action, but/though/contingent on X."
-Examples: `procurement/conjure-contractor.md`,
-`procurement/conjure-headcount.md`, `org-design/reorg.md`.
+Not phenomena in themselves, but two write-up conventions the Working Group
+has settled on for consistency across findings filed independently:
 
-A second naming pattern worth keeping consistent: "Power Word: X," for a
-spell that requires no saving throw and instead gates its effect on some
-threshold unrelated to the target's resistance — a callback to D&D's
-Power Word Kill/Stun/Heal, which likewise skip the save. Unlike the
-classical versions, ours don't need to be high-level or actually
-powerful; the joke works just as well undersized. The gating threshold is
-the whole joke — it should be something structural (a materiality
-threshold, a seniority difference, whether a prior record exists) rather
-than a reskinned saving throw. Examples:
-`legacy-systems/power-word-forced-restart.md` (a cantrip),
+**Casting Time hedging.** Several findings give a short, official-sounding
+Casting Time (often "1 action") immediately qualified by the real
+bureaucratic delay before anything actually happens — a Lead Time, a
+Headcount Approval check, a multi-month rollout. Where a finding's nominal
+instant of casting and its practical timeline diverge, record both: "1
+action, but/though/contingent on X." Examples:
+`procurement/conjure-contractor.md`, `procurement/conjure-headcount.md`,
+`org-design/reorg.md`.
+
+**"Power Word: X" naming.** Reserve this prefix for an incantation that
+requires no saving throw and instead gates its effect on some threshold
+unrelated to the target's resistance — a materiality threshold, a
+seniority difference, whether a prior record exists. The gating threshold
+should be structural, not a reskinned saving throw wearing a different
+name; potency is beside the point, several of the smallest recorded
+instances document the pattern most cleanly. Examples:
+`legacy-systems/power-word-forced-restart.md`,
 `stakeholder-management/power-word-buzzword.md`,
 `compliance-risk/power-word-per-my-last-email.md`,
 `procurement/power-word-approved.md`, `finance/power-word-write-off.md`,
