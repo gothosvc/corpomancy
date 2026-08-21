@@ -23,7 +23,8 @@ equal to the caster's remaining board goodwill)<br>
 
 A bright memo streaks from the caster's inbox to the point you choose, then
 expands with a flat, affectless *whoosh* of calendar invites. Each employee
-in the area of effect must make a Tenure saving throw. On a failed save, a
+in the area of effect must make a Tenure saving throw, with disadvantage if
+the creature is Documented (see Performance Review). On a failed save, a
 creature is dismissed effective end of day, loses access to all company
 systems, and takes severance damage equal to 8d6 (halved, rounded to the
 nearest pay period). On a successful save, a creature instead takes half as

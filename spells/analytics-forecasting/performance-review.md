@@ -26,9 +26,9 @@ creature's most recent, most visible action, rather than by the full
 period under review.
 
 A creature who receives a low rating becomes Documented (see Animate
-Legacy System) for the purposes of any future Reduction in Force or
-Litigation Blitz targeting them specifically, regardless of whether the
-rating reflected their actual output. Any Discovery saving throw the
+Legacy System) for the purposes of any future Reduction in Force
+targeting them specifically, regardless of whether the rating reflected
+their actual output. Any Discovery saving throw the
 creature attempts to formally dispute the rating is made with
 disadvantage, since the rubric used to produce it was never shared in
 advance.

@@ -8,7 +8,6 @@ permalink: pretty
 exclude:
   - README.md
   - SCHOOLS.md
-  - MECHANICS.md
   - TEMPLATE.md
   - CONTRIBUTING.md
   - CODE_OF_CONDUCT.md
