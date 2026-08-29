@@ -29,9 +29,9 @@ within the same fiscal quarter, each subsequent casting is 10 percent more
 likely to simply return whatever answer the caster wanted to hear.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 3rd
-level or higher, the divination includes a specific numeric range (a
-Confidence Interval), which sounds more precise than the 2nd-level version
-without being meaningfully more accurate.
+level or higher, you may forecast the same course of action across
+multiple future quarters simultaneously; the sycophancy creep from
+repeated castings applies independently to each quarter forecasted.
 
 ---
 **Flavor:** *"We remain confident in our full-year guidance."* — quarterly
