@@ -120,6 +120,51 @@ should be structural, not a reskinned saving throw wearing a different
 name; potency is beside the point, several of the smallest recorded
 instances document the pattern most cleanly.
 
+**Named Practitioners.** Some findings carry an eponym — a name attached to
+a maneuver or an observed pattern, never a role, so it can't collide with a
+spell's `Classes` field. Most spells don't get one; it marks a finding
+distinctive enough to be worth attributing. A named spell typically lands
+in the 4th-7th level range — the same band the iconic named incantations
+of other traditions cluster in — though a low-level "signature move" is a
+legitimate exception when the finding is a small, instantly recognizable
+trick rather than a scaled-up production. What a name should never do is
+default to the low end simply because nobody bothered to raise the
+stakes. The name itself is either possessive ("Voss's X," after whoever
+gets credited with the move) or a named law ("The Halloran Principle,"
+after the pattern it describes) — pick whichever reads more like a
+personal signature or more like an institutional citation for that
+specific finding. A name may recur across more than one finding, and more
+than one discipline; check the table below before inventing one that would
+duplicate an existing name's territory. As with every other finding, the
+visible entry never explains who the person was or what they did to earn
+the name — the name implies the legend, it doesn't narrate it.
+
+| Name | Form | Example Entry |
+|---|---|---|
+| Voss | Possessive | [Voss's Efficiency Dividend]({{ '/spells/finance/voss-efficiency-dividend/' | relative_url }}) |
+| The Halloran Principle | Named principle | [The Halloran Principle]({{ '/spells/analytics-forecasting/halloran-principle/' | relative_url }}) |
+| Delacroix | Possessive | [Delacroix's Full Pivot]({{ '/spells/marketing-optics/delacroix-full-pivot/' | relative_url }}) |
+
+A named practitioner's *findings* aren't tracked here beyond that one
+example — the domain pages already index every spell, and this table only
+needs to stop two contributors from independently inventing competing
+names. A resource, condition, or other phenomenon exclusive to one
+practitioner's line (see Conviction, below) is the one exception worth
+recording in full, since the whole point of it is that nobody else should
+casually reuse it.
+
+**Conviction (Halloran only).** A resource pool exclusive to Halloran's
+own findings — deliberately not offered for reuse elsewhere, unlike every
+other phenomenon in this lexicon. A creature under this line's effects has
+a pool of Conviction equal to their level, which refills to full at the
+start of each fiscal quarter regardless of whether the Conviction spent
+last quarter was later vindicated or discredited. Spending 1 point on a
+forecast, estimate, or prediction forces any Discovery saving throw
+attempted against it to automatically fail. Unlike Runway, nothing about
+Conviction depletes on its own, and unlike Windfall, it isn't a one-time
+grant tied to an event — it simply comes back, every quarter, on schedule,
+independent of the world's opinion of what happened last time.
+
 ## Explicitly Not Tracked Here
 
 **`Classes`** (who can cast a given spell) is intentionally excluded from
